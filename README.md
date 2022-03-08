@@ -1,2 +1,2 @@
 # connect4_python
-Console working
+Working in the console
